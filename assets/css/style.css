@@ -142,11 +142,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #B22222;
+  color: #5CB55D;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #721616;
+    color: #5CB55D;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -2063,10 +2063,10 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #B22222;
+  color: #5CB55D;
   text-decoration: none; }
   .btn-link:hover {
-    color: #721616;
+    color: #5CB55D;
     text-decoration: underline; }
   .btn-link:focus, .btn-link.focus {
     text-decoration: underline;

@@ -30,9 +30,9 @@
     font-size: 20px;
     background-color: #e5e5e5; }
   .envelope:hover {
-    border-color: #B22222 !important; }
+    border-color: #5CB55D !important; }
     .envelope:hover::before {
-      background-color: #B22222 !important;
+      background-color: #5CB55D !important;
       color: #fff; }
 
 .text-white .envelope::before {
